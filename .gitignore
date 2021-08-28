@@ -1,7 +1,7 @@
 #Hidden Files & APIs
 api_keys.py
-weather_api_key = 
-g_key = 
+weather_api_key = "4e622536ab29012f011f53b12ea9f57e"
+g_key = "AIzaSyDIJXsTq-EnwxBz9J6FGxTWZDabOA6lMss"
 API_practice.ipynb
 random_numbers.ipynb 
 
